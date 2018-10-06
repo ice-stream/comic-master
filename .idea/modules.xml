@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/comic-biz/comic-biz.iml" filepath="$PROJECT_DIR$/comic-biz/comic-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comic-common/comic-common.iml" filepath="$PROJECT_DIR$/comic-common/comic-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comic-master.iml" filepath="$PROJECT_DIR$/comic-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comic-web/comic-web.iml" filepath="$PROJECT_DIR$/comic-web/comic-web.iml" />
+    </modules>
+  </component>
+</project>
